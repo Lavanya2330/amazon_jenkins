@@ -38,9 +38,9 @@ public void openBrowser() {
     }
 }
 
-public void getUrl(){
-    driver.get("https://www.amazon.co.uk");
-}
+//public void getUrl(){
+   // driver.get("https://www.amazon.co.uk");
+//}
 public void maxWindow() {
     driver.manage().window().maximize();
 }
